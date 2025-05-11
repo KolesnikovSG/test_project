@@ -1,2 +1,5 @@
 Изменения (тестовые:))
 CONFLICT
+qwerty
+DELETED
+
