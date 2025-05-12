@@ -1,2 +1,7 @@
 Изменения (тестовые:))
-Second changecat newFile.txt cat newFile.txt 
+CONFLICT
+qwerty
+DELETED
+
+SEE
+ees
